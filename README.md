@@ -8,8 +8,6 @@ People acquire assets in order to add value to their lives, from a pair of golf 
 
 Lifestyle Coin (LYF) and the Lifestyle Exchange (LYFE) is an exclusive coin for those people who want to trade experiences with each other, but want to hang on to their original assets (and their fiat currency). LYFE allows for the creation of new value in assets that previously had no practical earning potential, while unlocking new opportunities of exchange for rich lifestyle experiences. 
 
-## How it Works : ##
-
 Say, for example, you have a jet ski in Miami. You want to find someone to make a trade for the use of your jet ski for a weekend while you get to borrow their Ferrari while you are taking a summer vacation in San Diego. Practically, it would be virtually impossible for you to set up this kind of trade. 
 
 Enter : the Lifestyle Coin.
