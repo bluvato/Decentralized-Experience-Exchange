@@ -1,15 +1,24 @@
-# lyf
-Decentralized Lifestyle Exchange
+# Introducing a decentralized lifestyle exchange on the Ethereum Blockchain #
 
-Lifestyle Coin is for exclusive and rich people who want to trade experiences with each other, but value hanging on to their hard-earned currency and assets. Therefore, we create a token and platform that allows an exclusive network of rich technocrats to share in the fruits of each other’s labors. 
+## Problem : ##
 
-Say, for example, you have a jet ski in Miami. But you really want to take a weekend trip in a Ferrari. Without a marketplace for you to exchange gifts through a new token currency, there is no feasible way for you to trade your jets skis in for a Ferrari, unless you happened to know someone who exactly wanted to swap those assets. Of course, this is virtually unlimited different pairs and it is not feasible to find a buyer-seller on both sides of the exchange. 
+People acquire assets in order to add value to their lives, from a pair of golf clubs, to a motorboat, to a classic 1969 Camaro. These are not the types of items or experiences that people typically want to expend the time or energy to market/rent, nor do they want to entirely sell these assets. The only realistic option is all or nothing -- hang on to your assets and enjoy them on occassion, or sell them and lose all their benefit.
+
+## Solution : ##
+
+Lifestyle Coin (LYF) and the Lifestyle Exchange (LYFE) is an exclusive coin for those people who want to trade experiences with each other, but want to hang on to their original assets (and their fiat currency). LYFE allows for the creation of new value in assets that previously had no practical earning potential, while unlocking new opportunities of exchange for rich lifestyle experiences. 
+
+## How it Works : ##
+
+Say, for example, you have a jet ski in Miami. You want to find someone to make a trade for the use of your jet ski for a weekend while you get to borrow their Ferrari while you are taking a summer vacation in San Diego. Practically, it would be virtually impossible for you to set up this kind of trade. 
 
 Enter : the Lifestyle Coin.
 
-Lifestyle Coin, LYF, will allow for people to trade experiences. Buy using a token, we provide liquidity for experiences that don’t have direct exchange pair built into the experience.
+The Lifestyle Coin (LYF) is the token that drives the marketplace for you to exchange lifestyle events. It allows for a decentralized exchange so that high-value, low liquidity assets can be freely exchanged for one another. Rather than having the unenviable task of trying to hunt down a person in San Diego who happens to want to use your jet skis, and who has a Ferrari for you to borrow for a weekend, the LYF serves as a medium of exchange so that disparate buyers/sellers can exchange amazing lifestyle experiences, without the need of fiat currency.
 
-Take, for example, the age-old idea of a house swap. These exchanges allow someone to trade houses, for instance, someone in Baltimore might exchange houses with someone with a house in Paris. The problem with these sites are obviously liquidity -- can you quickly convert your house’s availability into using someone else’s house --, supply, and demand. And if you think about something as intangible as renting out someone’s jet skis or using someone’s Ferrari for a weekend, this is obviously hundreds if not thousands of times more problematic from a liquidity, supply, and demand perspective. If you have a more intangible asset other than something obvious like an apartment/condo/house (etner AirBnb), how can you effectively have a platform in order to trade these lifestyle experiences with someone else?
+To learn more, please visit http://getlyf.com
 
-The LYF starts to solve these problems by creating a decentralized, non-fiat currency that allows people to exchange intangible experiences without resorting to fiat currency and exchange rates.
+## Contact ## 
+If you have questions please drop us a line at below, thanks!
 
+Email: info@getlyf.com
