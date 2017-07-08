@@ -8,11 +8,9 @@ People acquire assets in order to add value to their lives, from a pair of golf 
 
 Lifestyle Coin (LYF) and the Lifestyle Exchange (LYFE) is an exclusive coin for those people who want to trade experiences with each other, but want to hang on to their original assets (and their fiat currency). LYFE allows for the creation of new value in assets that previously had no practical earning potential, while unlocking new opportunities of exchange for rich lifestyle experiences. 
 
-Say, for example, you have a jet ski in Miami. You want to find someone to make a trade for the use of your jet ski for a weekend while you get to borrow their Ferrari while you are taking a summer vacation in San Diego. Practically, it would be virtually impossible for you to set up this kind of trade. 
+Say, for example, you have a jet ski in Miami. You want to find someone to make a trade for the use of your jet ski for a weekend while you get to borrow their Ferrari while you are taking a summer vacation in San Diego. Practically, it would be impossible for you to set up this kind of trade. 
 
-Enter : the Lifestyle Coin.
-
-The Lifestyle Coin (LYF) is the token that drives the marketplace for you to exchange lifestyle events. It allows for a decentralized exchange so that high-value, low liquidity assets can be freely exchanged for one another. Rather than having the unenviable task of trying to hunt down a person in San Diego who happens to want to use your jet skis, and who has a Ferrari for you to borrow for a weekend, the LYF serves as a medium of exchange so that disparate buyers/sellers can exchange amazing lifestyle experiences, without the need of fiat currency.
+Enter LYF, the token that fuels the marketplace for you to exchange lifestyle events. LYF allows for a decentralized exchange of high-value, low liquidity assets to be exchanged for each other.
 
 To learn more, please visit http://getlyf.com
 
