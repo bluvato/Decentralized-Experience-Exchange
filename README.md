@@ -17,4 +17,4 @@ To learn more, please visit http://getlyf.com
 ## Contact ## 
 If you have questions please drop us a line at below, thanks!
 
-Email: info@getlyf.com
+Email: lyf@bluvato.com
