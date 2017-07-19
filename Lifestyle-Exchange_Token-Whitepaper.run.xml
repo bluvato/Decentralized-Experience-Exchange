@@ -41,14 +41,14 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp.aux</file>
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp-blx.bib</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper.aux</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper-blx.bib</file>
     </provides>
     <requires type="dynamic">
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp.bbl</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -62,25 +62,25 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
+  <external package="biblatex" priority="5" active="1">
     <generic>bibtex</generic>
     <cmdline>
       <binary>bibtex</binary>
       <option>-min-crossrefs 2</option>
-      <infile>Lifestyle-Exchange_Token-Whitepaper_2_Temp</infile>
+      <infile>Lifestyle-Exchange_Token-Whitepaper</infile>
     </cmdline>
     <input>
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp.aux</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper.aux</file>
     </input>
     <output>
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp.bbl</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp.bbl</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp.aux</file>
-      <file>Lifestyle-Exchange_Token-Whitepaper_2_Temp-blx.bib</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper.aux</file>
+      <file>Lifestyle-Exchange_Token-Whitepaper-blx.bib</file>
     </requires>
     <requires type="editable">
       <file>wp-refs.bib</file>
