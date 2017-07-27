@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.7.8)  18 JUL 2017 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.7.8)  27 JUL 2017 01:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -105,14 +105,6 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-(c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-)
 (c:/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip46
@@ -130,6 +122,14 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@tables=\count102
 \c@LT@chunks=\count103
 \LT@p@ftn=\toks20
+)
+(c:/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(c:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
 )
 (c:/texlive/2017/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
@@ -529,7 +529,7 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 \@quotelevel=\count310
 \@quotereset=\count311
 
-No file Lifestyle-Exchange_Token-Whitepaper.aux.
+(./Lifestyle-Exchange_Token-Whitepaper.aux)
 \openout1 = `Lifestyle-Exchange_Token-Whitepaper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -546,6 +546,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
+
 (c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count312
@@ -590,6 +591,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 22.
 LaTeX Info: Redefining \pageref on input line 22.
 LaTeX Info: Redefining \nameref on input line 22.
+
+(./Lifestyle-Exchange_Token-Whitepaper.out)
+(./Lifestyle-Exchange_Token-Whitepaper.out)
 \@outlinefile=\write5
 \openout5 = `Lifestyle-Exchange_Token-Whitepaper.out'.
 
@@ -646,6 +650,7 @@ Package biblatex Info: Reference segment=0 on input line 22.
 [1
 
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Lifestyle-Exchange_Token-Whitepaper.toc)
 \tf@toc=\write6
 \openout6 = `Lifestyle-Exchange_Token-Whitepaper.toc'.
 
@@ -657,52 +662,63 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
- [3] [4] [5]
+ [3]
+<./WP_images/dex1.png, id=95, 803.0pt x 803.0pt>
+File: ./WP_images/dex1.png Graphic file (type png)
+<use ./WP_images/dex1.png>
+Package pdftex.def Info: ./WP_images/dex1.png  used on input line 75. on input 
+line 75.
+Package pdftex.def Info: Requested size: 332.10184pt x 332.11154pt on input lin
+e 75.
+ [4 <./WP_images/dex1.png>] [5] [6] [7]
+<will.jpg, id=115, 400.49625pt x 400.49625pt>
+File: will.jpg Graphic file (type jpg)
+<use will.jpg>
+Package pdftex.def Info: will.jpg  used on input line 161. on input line 161.
+Package pdftex.def Info: Requested size: 83.02386pt x 83.01892pt on input line 
+161.
+<./WP_images/anthony.jpg, id=116, 200.75pt x 200.75pt>
+File: ./WP_images/anthony.jpg Graphic file (type jpg)
+<use ./WP_images/anthony.jpg>
+Package pdftex.def Info: ./WP_images/anthony.jpg  used on input line 171. on in
+put line 171.
+Package pdftex.def Info: Requested size: 83.02386pt x 83.02481pt on input line 
+171.
+Missing character: There is no â in font cmti10!
+Missing character: There is no € in font cmti10!
+Missing character: There is no ™ in font cmti10!
+ [8 <./will.jpg> <./WP_images/anthony.jpg>]
+Overfull \hbox (13.80821pt too wide) in paragraph at lines 196--198
+[]\OT1/cmr/m/n/10.95 User Avatars by UserIn-sights is li-censed un-der CC BY 3.
+0, https://usersinsights.com/ 
+ []
 
-LaTeX Warning: Empty bibliography on input line 124.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+LaTeX Warning: Empty bibliography on input line 208.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+[9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
  (./Lifestyle-Exchange_Token-Whitepaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
-
-
-Package rerunfilecheck Warning: File `Lifestyle-Exchange_Token-Whitepaper.out' 
-has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Lifestyle-Exchange_Token-Whitepaper
-.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7A5F207380553AB22FB7243807E123B3;469.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                Lifestyle-Exchange_Token-Whitepaper
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package rerunfilecheck Info: File `Lifestyle-Exchange_Token-Whitepaper.out' has
+ not changed.
+(rerunfilecheck)             Checksum: EEDAD5E1E5B4DE885033D63BC1F5E411;834.
 Package logreq Info: Writing requests to 'Lifestyle-Exchange_Token-Whitepaper.r
 un.xml'.
 \openout1 = `Lifestyle-Exchange_Token-Whitepaper.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 218.
  ) 
 Here is how much of TeX's memory you used:
- 13189 strings out of 492990
- 213859 string characters out of 6136350
+ 13248 strings out of 492990
+ 214871 string characters out of 6136350
  501551 words of memory out of 5000000
- 16626 multiletter control sequences out of 15000+600000
- 9472 words of font info for 34 fonts, out of 8000000 for 9000
+ 16662 multiletter control sequences out of 15000+600000
+ 10363 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,6n,37p,1689b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,6n,37p,1694b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2017
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dis
@@ -710,11 +726,11 @@ t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmti10.pfb>
-Output written on Lifestyle-Exchange_Token-Whitepaper.pdf (6 pages, 102745 byte
+Output written on Lifestyle-Exchange_Token-Whitepaper.pdf (9 pages, 306582 byte
 s).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 134 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 

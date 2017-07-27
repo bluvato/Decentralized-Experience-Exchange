@@ -1,17 +1,29 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}High Level Value Proposition}{3}{section.1}
+\contentsline {section}{\numberline {1}Value Proposition}{3}{section.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}The Challenge}{3}{section.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Introducing the Life Exchange Token}{3}{section.3}
+\contentsline {section}{\numberline {3}Decentralized Experience Exchange and Life Exchange Token}{3}{section.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Further Considerations}{4}{section.4}
+\contentsline {section}{\numberline {4}Further Considerations}{5}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Safety}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.1}Safety}{5}{subsection.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Community}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.2}Community}{6}{subsection.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3}Derivatives}{6}{subsection.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Insurance}{6}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.4}Insurance}{7}{subsection.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Roll-Out Planning}{7}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Token Sale}{7}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Use of Funds}{7}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Release Planning}{7}{subsection.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Board of Directors and Contact}{8}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Attributions}{9}{section.7}
